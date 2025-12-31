@@ -2,3 +2,4 @@ Streamlit
 Langchain
 Langchain_Groq
 Langchain_classic
+dotenv
